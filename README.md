@@ -39,6 +39,3 @@ A typical Three.js project involves:
 
 ---
 
-👉 In short, **Three.js bridges the gap between raw WebGL and creative 3D design**, empowering developers to bring interactive graphics to the web with ease.  
-
-Would you like me to also create a **step-by-step cheat sheet** (like a mini roadmap) for building a basic Three.js project, so you can quickly apply this knowledge?
